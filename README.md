@@ -39,4 +39,13 @@ I am a Network and System Administration student specializing in Cybersecurity a
 
 ## 📫 Connect With Me
 * **GitHub:** [github.com/ezrandichu](https://github.com/ezrandichu)
+---
+
+## 🖥️ Server Room Infrastructure Visit
+
+Stepping into a server room for the first time is a real eye-opener for any aspiring network administrator. It's where the digital world comes to life, revealing the heart of enterprise infrastructure. We got to see the physical servers humming along, neatly organized with structured cabling that ensures optimal airflow and cooling. Reliability is key, so seeing the robust power backups in place was a great reminder of how we keep systems running no matter what. We also dove into network security, examining how enterprise firewalls are set up and how they filter incoming traffic to keep the network secure.
+
+### 📸 Photos from the Visit:
+![Server Room Rack Setup](IMG_20261009_132229.jpg)
+![Enterprise Firewalls and Servers](IMG_20261009_132933.jpg)
 
