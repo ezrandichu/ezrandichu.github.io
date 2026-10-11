@@ -48,4 +48,20 @@ Stepping into a server room for the first time is a real eye-opener for any aspi
 ### 📸 Photos from the Visit:
 ![Server Room Rack Setup](IMG_20261009_132229.jpg)
 ![Enterprise Firewalls and Servers](IMG_20261009_132933.jpg)
+---
+
+## 🛠️ Computer Hardware, Repair & Maintenance Practical
+
+Hands-on experience in computer hardware maintenance and troubleshooting is essential for any system administrator. During this practical lab, we focused on diagnostic procedures, system disassembly, component identification, and preventive maintenance. 
+
+**Key Highlights:**
+* **Safety & ESD Protocols:** Applied strict Electrostatic Discharge (ESD) safety practices before opening system towers.
+* **Component Identification & Inspection:** Disassembled towers to inspect critical components including the motherboard, CPU, RAM modules, power supply units (PSU), and storage drives.
+* **Preventive Maintenance:** Performed deep cleaning of dust and debris, inspected cooling fans, and replaced degraded thermal paste to maintain optimal thermal performance.
+* **Assembly & Diagnostics:** Reassembled hardware units carefully and executed post-assembly boot tests to verify system stability and functionality.
+
+### 📸 Photos from the Practical:
+![Hardware Maintenance 1](IMG_20261006_082516.jpg)
+![Hardware Maintenance 2](IMG_20261006_082528.jpg)
+![Hardware Maintenance 3](IMG_20261002_123341.jpg)
 
