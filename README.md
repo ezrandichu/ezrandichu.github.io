@@ -67,4 +67,66 @@ Hands-on experience in computer hardware maintenance and troubleshooting is esse
 ![Hardware Maintenance 1](IMG_20261013_093046.jpg)
 ![Hardware Maintenance 2](IMG_20261013_093655.jpg)
 ![Hardware Maintenance 3](IMG_20261013_100109.jpg)
+## 🛡️ Cyber Week Awareness Training — Ministry of Education & MICDE
+
+I was honored to attend and represent my institution at the official Cyber Week Awareness Training, organized by the State Department for TVET and the Ministry of Information, Communications and the Digital Economy (Directorate of ICT Security & Audit Control)[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span)[span_2](start_span)[span_2](end_span).
+
+---
+
+### 📊 Key Technical Insights & Takeaways
+
+#### 1. Kenya's Cyber Threat Landscape (KE-CIRT/CC Data)
+* **11.12 Billion Total Threat Events** recorded up to June 2026, representing a 29% increase year-over-year[span_3](start_span)[span_3](end_span).
+* **4.56 Billion Peak Quarter (Oct–Dec 2025)**: Driven by weak patching, low phishing awareness, and AI-enabled cybercrime[span_4](start_span)[span_4](end_span).
+* **2.36 Billion Threats in Q2 2026**: Equating to approximately 18,000 threat events detected per minute[span_5](start_span)[span_5](end_span).
+* **Primary Threat Vectors**: Ransomware, Phishing, DoS/DDoS, Email Compromise, Data Breaches, Insider Threats, and AI Cybercrime (including deepfakes and automated attacks)[span_6](start_span)[span_6](end_span).
+
+![Kenya Cyber Threat Landscape Statistics](IMG_20261012_123851.jpg)
+![Current Cybersecurity Situation and Threat Vectors](IMG_20261012_123902.jpg)
+
+#### 2. The AI Cybersecurity Equation (Huawei Framework)
+* **AI for Attackers**:
+  * Automated reconnaissance and more convincing phishing[span_7](start_span)[span_7](end_span).
+  * Scaled social engineering and deepfake impersonation[span_8](start_span)[span_8](end_span).
+  * Faster attack development and adaptable malicious content[span_9](start_span)[span_9](end_span).
+* **AI for Defenders**:
+  * Threat detection and anomaly identification[span_10](start_span)[span_10](end_span).
+  * Security analytics and investigation support[span_11](start_span)[span_11](end_span).
+  * Automation, incident response, and pattern recognition[span_12](start_span)[span_12](end_span).
+
+![AI Changes the Cybersecurity Equation](IMG_20261012_123200.jpg)
+
+#### 3. Personal Security Practices & Fundamentals
+* **Account Protection**: Implementing strong, unique passwords, 2-Step Verification (2SV), and avoiding insecure public Wi-Fi[span_13](start_span)[span_13](end_span).
+* **Phishing Mitigation**: Utilizing the **Stop ➔ Think ➔ Check ➔ Act** framework[span_14](start_span)[span_14](end_span).
+* **Digital Footprint Awareness**: Safeguarding online reputation under the principle that "what goes online stays online[span_15](start_span)"[span_15](end_span).
+* **CIA Triad Core Objectives**: Confidentiality, Integrity, and Availability[span_16](start_span)[span_16](end_span).
+* **Extended Detection and Response (XDR)**: Malware and threat detection, monitoring suspicious activity, and vulnerability management[span_17](start_span)[span_17](end_span).
+
+![Session Hand-written Notes](IMG_20261012_135521.jpg)
+
+---
+
+### 🎓 Huawei Certification & Competition Pathways
+
+#### Certification Tiers
+* **HCIA** (Huawei Certified ICT Associate)[span_18](start_span)[span_18](end_span)
+* **HCIP** (Huawei Certified ICT Professional)[span_19](start_span)[span_19](end_span)
+* **HCIE** (Huawei Certified ICT Expert)[span_20](start_span)[span_20](end_span)
+* **Core Tracks**: Datacom, Security, Cloud, AI, openEuler, Storage, and 5G[span_21](start_span)[span_21](end_span)[span_22](start_span)[span_22](end_span).
+
+![Huawei Certification Portfolio](IMG_20261012_122936.jpg)
+
+#### Huawei ICT Competition
+* **Tracks**: Practice Competition (Network, Cloud, Computing) and Innovation Competition (AI Innovation)[span_23](start_span)[span_23](end_span).
+* **Progression Pipeline**: Registration ➔ Preliminary Rounds ➔ National Final ➔ Regional Final (South Africa) ➔ Global Final (China)[span_24](start_span)[span_24](end_span).
+
+![Huawei ICT Competition Format](IMG_20261012_123205.jpg)
+
+---
+
+### 🚀 Building Kenya's Next Cyber Defenders
+* Core institutional focus areas include innovation, research, responsible technology use, ethical hacking competitions, and campus cybersecurity clubs[span_25](start_span)[span_25](end_span).
+
+![Building Kenya's Next Cyber Defenders](IMG_20261012_125226.jpg)
 
