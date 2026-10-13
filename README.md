@@ -67,7 +67,7 @@ Hands-on experience in computer hardware maintenance and troubleshooting is esse
 ![Hardware Maintenance 1](IMG_20261013_093046.jpg)
 ![Hardware Maintenance 2](IMG_20261013_093655.jpg)
 ![Hardware Maintenance 3](IMG_20261013_100109.jpg)
-#![Current Cybersecurity Situation and Threat Vectors](IMG_20261012_123902.jpg)    
+
 ## 🛡️ Cyber Week Awareness Training — Ministry of Education & MICDE
 
 I was honored to attend and represent my institution at the official Cyber Week Awareness Training, organized by the State Department for TVET and the Ministry of Information, Communications and the Digital Economy (Directorate of ICT Security & Audit Control).
