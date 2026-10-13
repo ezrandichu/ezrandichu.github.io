@@ -41,7 +41,7 @@ I am a Network and System Administration student specializing in Cybersecurity a
 * **GitHub:** [github.com/ezrandichu](https://github.com/ezrandichu)
 ---
 
-## 🖥️ Server Room Infrastructure Visit
+## 🖥️ Server Room Infrastructure Visit 001
 
 Stepping into a server room for the first time is a real eye-opener for any aspiring network administrator. It's where the digital world comes to life, revealing the heart of enterprise infrastructure. We got to see the physical servers humming along, neatly organized with structured cabling that ensures optimal airflow and cooling. Reliability is key, so seeing the robust power backups in place was a great reminder of how we keep systems running no matter what. We also dove into network security, examining how enterprise firewalls are set up and how they filter incoming traffic to keep the network secure.
 
@@ -50,7 +50,7 @@ Stepping into a server room for the first time is a real eye-opener for any aspi
 ![Enterprise Firewalls and Servers](IMG_20261009_132933.jpg)
 ---
 
-## 🛠️ Computer Hardware, Repair & Maintenance Practical
+## 🛠️ Computer Hardware, Repair & Maintenance Practical 001
 
 Hands-on experience in computer hardware maintenance and troubleshooting is essential for any system administrator. During this practical lab, we focused on diagnostic procedures, system disassembly, component identification, and preventive maintenance. 
 
