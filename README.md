@@ -118,3 +118,20 @@ I was honored to attend and represent my institution at the official Cyber Week 
 ### 🚀 Building Kenya's Next Cyber Defenders
 * Core institutional focus areas include innovation, research, responsible technology use, ethical hacking competitions, and campus cybersecurity clubs.
 * 
+### 📸 Session Photos & Slide References
+
+#### 1. Registration & Event Overview
+![CyberWeek Africa Training QR Code](IMG_20261012_122936.jpg)
+![Session Audience & Venue](IMG_20261012_135521.jpg)
+
+#### 2. Threat Statistics & Situation in Kenya
+![Kenya Cyber Threat Landscape](IMG_20261012_123851.jpg)
+![Current Cybersecurity Situation](IMG_20261012_123859.jpg)
+![Threat Vectors & Targeted Sectors](IMG_20261012_123902.jpg)
+
+#### 3. AI Framework & Industry Certifications
+![AI Changes the Cybersecurity Equation](IMG_20261012_123200.jpg)
+![Huawei ICT Competition Format](IMG_20261012_123205.jpg)
+
+#### 4. Future Defenders
+![Building Kenya's Next Cyber Defenders](IMG_20261012_125226.jpg)
