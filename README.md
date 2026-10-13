@@ -68,3 +68,53 @@ Hands-on experience in computer hardware maintenance and troubleshooting is esse
 ![Hardware Maintenance 2](IMG_20261013_093655.jpg)
 ![Hardware Maintenance 3](IMG_20261013_100109.jpg)
 #![Current Cybersecurity Situation and Threat Vectors](IMG_20261012_123902.jpg)    
+## 🛡️ Cyber Week Awareness Training — Ministry of Education & MICDE
+
+I was honored to attend and represent my institution at the official Cyber Week Awareness Training, organized by the State Department for TVET and the Ministry of Information, Communications and the Digital Economy (Directorate of ICT Security & Audit Control).
+
+---
+
+### 📊 Key Technical Insights & Takeaways
+
+#### 1. Kenya's Cyber Threat Landscape (KE-CIRT/CC Data)
+* **11.12 Billion Total Threat Events** recorded up to June 2026, representing a 29% increase year-over-year.
+* **4.56 Billion Peak Quarter (Oct–Dec 2025)**: Driven by weak patching, low phishing awareness, and AI-enabled cybercrime.
+* **2.36 Billion Threats in Q2 2026**: Equating to approximately 18,000 threat events detected per minute.
+* **Primary Threat Vectors**: Ransomware, Phishing, DoS/DDoS, Email Compromise, Data Breaches, Insider Threats, and AI Cybercrime (including deepfakes and automated attacks).
+
+#### 2. The AI Cybersecurity Equation (Huawei Framework)
+* **AI for Attackers**:
+  * Automated reconnaissance and more convincing phishing.
+  * Scaled social engineering and deepfake impersonation.
+  * Faster attack development and adaptable malicious content.
+* **AI for Defenders**:
+  * Threat detection and anomaly identification.
+  * Security analytics and investigation support.
+  * Automation, incident response, and pattern recognition.
+
+#### 3. Personal Security Practices & Fundamentals
+* **Account Protection**: Implementing strong, unique passwords, 2-Step Verification (2SV), and avoiding insecure public Wi-Fi.
+* **Phishing Mitigation**: Utilizing the **Stop ➔ Think ➔ Check ➔ Act** framework.
+* **Digital Footprint Awareness**: Safeguarding online reputation under the principle that "what goes online stays online".
+* **CIA Triad Core Objectives**: Confidentiality, Integrity, and Availability.
+* **Extended Detection and Response (XDR)**: Malware and threat detection, monitoring suspicious activity, and vulnerability management.
+
+---
+
+### 🎓 Huawei Certification & Competition Pathways
+
+#### Certification Tiers
+* **HCIA** (Huawei Certified ICT Associate)
+* **HCIP** (Huawei Certified ICT Professional)
+* **HCIE** (Huawei Certified ICT Expert)
+* **Core Tracks**: Datacom, Security, Cloud, AI, openEuler, Storage, and 5G.
+
+#### Huawei ICT Competition
+* **Tracks**: Practice Competition (Network, Cloud, Computing) and Innovation Competition (AI Innovation).
+* **Progression Pipeline**: Registration ➔ Preliminary Rounds ➔ National Final ➔ Regional Final (South Africa) ➔ Global Final (China).
+
+---
+
+### 🚀 Building Kenya's Next Cyber Defenders
+* Core institutional focus areas include innovation, research, responsible technology use, ethical hacking competitions, and campus cybersecurity clubs.
+* 
