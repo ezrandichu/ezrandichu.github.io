@@ -61,8 +61,7 @@ Hands-on experience in computer hardware maintenance and troubleshooting is esse
 * **Assembly & Diagnostics:** Reassembled hardware units carefully and executed post-assembly boot tests to verify system stability and functionality.
 
 ### 📸 Photos from the Practical:
-![Hardware Maintenance 1](IMG_20261006_082516.jpg)
-![Hardware Maintenance 2](IMG_20261006_082528.jpg)
+![Hardware Maintenance 2](IMG_20261014_125959.jpg)
 ![Hardware Maintenance 3](IMG_20261002_123341.jpg)
 ![Hardware Maintenance 1](IMG_20261013_093046.jpg)
 ![Hardware Maintenance 2](IMG_20261013_093655.jpg)
