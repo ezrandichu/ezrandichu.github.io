@@ -228,3 +228,13 @@ Cisco certifications validate technical expertise across four distinct progressi
 * **Cisco Packet Tracer:** Network simulation and topology design.
 * **Physical Hardware Labs:** Equipment rack configuration, routing/switching CLI setups, and cable patching.
 * 
+![Slide 1](IMG_20261021_110516.jpg)
+![Slide 2](IMG_20261021_110628.jpg)
+![Slide 3](IMG_20261021_110817.jpg)
+![Slide 4](IMG_20261021_111238.jpg)
+![Slide 5](IMG_20261021_111247.jpg)
+![Slide 6](IMG_20261021_111600.jpg)
+![Slide 7](IMG_20261021_111650.jpg)
+![Slide 8](IMG_20261021_111810.jpg)
+![Slide 9](IMG_20261021_112054.jpg)
+![Slide 10](IMG_20261021_112211.jpg)
