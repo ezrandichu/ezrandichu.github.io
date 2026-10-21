@@ -135,8 +135,6 @@ I was honored to attend and represent my institution at the official Cyber Week 
 #### 4. Future Defenders
 ![Building Kenya's Next Cyber Defenders](IMG_20261012_125226.jpg)
 # Cisco Networking Academy: Career Pathways & Technical Skills Overview
-
-> **Statement of Participation:**  
 > I had the distinct honor of attending the technical forum **"Unlocking Career Opportunities through Cisco Certifications"** hosted at **WOTE TTI**. This document summarizes the comprehensive insights, technical skill sets, certification pathways, and industry-aligned career trajectories acquired during the session.
 
 ---
