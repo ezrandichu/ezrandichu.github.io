@@ -134,3 +134,99 @@ I was honored to attend and represent my institution at the official Cyber Week 
 
 #### 4. Future Defenders
 ![Building Kenya's Next Cyber Defenders](IMG_20261012_125226.jpg)
+# Cisco Networking Academy: Career Pathways & Technical Skills Overview
+
+> **Statement of Participation:**  
+> I had the distinct honor of attending the technical forum **"Unlocking Career Opportunities through Cisco Certifications"** hosted at **WOTE TTI**. This document summarizes the comprehensive insights, technical skill sets, certification pathways, and industry-aligned career trajectories acquired during the session.
+
+---
+
+## 📌 Forum Overview & Key Takeaways
+
+The session detailed how the **Cisco Networking Academy** (founded in 1997) serves as a global leader in ICT education, having trained over 3.3 million students across 56 African countries and partnering with institutions in over 180 countries globally.
+
+### Why Cisco Skills Matter
+* **Industry Leadership:** Cisco is a global leader and synonymous with network infrastructure, ensuring that skills acquired remain relevant and in high demand.
+* **High Global Demand:** Certified professionals are sought after globally for their verified expertise.
+* **Universal Language of IT:** Skills gained through Cisco are recognized as a universal language in the IT industry, opening doors to diverse career paths worldwide—from Nairobi to Silicon Valley.
+* **Hands-On & Real-World Alignment:** Emphasizes practical, hands-on learning through tools like **Cisco Packet Tracer** and **Real Hardware Labs**, mapping directly to current industry job roles.
+* **Institutional Support:** Supported by key partners like the **African Advanced Level Telecommunications Institute (AFRALTI)** (a Cisco Academy Support Center and Instructor Training Center since 2002).
+
+---
+
+## 🛣️ Cisco Certification Pathways Hierarchy
+
+Cisco certifications validate technical expertise across four distinct progression levels:
+
+| Level | Level Name | Focus & Target Certifications |
+| :---: | :--- | :--- |
+| **01** | **Entry Level** | Foundational certifications designed for newcomers to IT:<br>• **CCST Networking**<br>• **CCST Cybersecurity**<br>• **CCST IT Support** |
+| **02** | **Associate Level** | Core skills for specific IT roles:<br>• **CCNA** (Cisco Certified Network Associate)<br>• **CyberOps Associate**<br>• **DevNet Associate** |
+| **03** | **Professional Level** | Advanced expertise in specialized networking and security domains:<br>• **CCNP Enterprise**<br>• **CCNP Security** |
+| **04** | **Expert Level** | The pinnacle of Cisco certifications, recognized globally for top-tier expertise:<br>• **CCIE** (Cisco Certified Internetwork Expert) |
+
+---
+
+## 🎯 Detailed Career Tracks & Acquired Skill Sets
+
+### 1. Networking Career Path 🌐
+* **Course Modules & Acquired Knowledge:**
+  * **CCNA 1: Introduction to Networks** – Foundational networking concepts, protocols, and architectures.
+  * **CCNA 2: Switching, Routing & Wireless Essentials** – Advanced switching, routing protocols, and wireless network configuration.
+  * **CCNA 3: Enterprise Networking** – Network security, automation, troubleshooting, and enterprise-level solutions.
+* **Target Certification:** Cisco Certified Network Associate (CCNA).
+* **Target Career Roles:**
+  * Network Technician
+  * Network Engineer
+  * Network Security Engineer
+  * Systems Administrator
+
+---
+
+### 2. Cybersecurity Career Path 🛡️
+* **Course Modules & Acquired Knowledge:**
+  * **Introduction to Cybersecurity** – Foundational security principles and threat awareness.
+  * **Cybersecurity Essentials** – Core concepts, cryptography, and defense strategies.
+  * **Network Defense & Endpoint Security** – Protecting network infrastructure and host endpoints from cyber attacks.
+  * **Cyber Threat Management** – Threat monitoring, analysis, incident response, and mitigation.
+* **Target Certifications:** CyberOps Associate, Ethical Hacker credentials.
+* **Target Career Roles:**
+  * Junior Cybersecurity Analyst
+  * SOC (Security Operations Center) Analyst
+  * Security Specialist
+  * Penetration Tester
+
+---
+
+### 3. Programming & Software Development Path 💻
+* **Course Modules & Acquired Knowledge:**
+  * **Python Essentials 1 & 2** – Mastering foundational and advanced Python programming concepts.
+  * **JavaScript Essentials 1 & 2** – Building interactive, modern web applications with JavaScript.
+  * **C / C++ Essentials** – Learning powerful systems-level programming languages.
+  * **HTML Essentials** – Structuring web content using standardized HTML markup.
+* **Target Certifications:** PCEP, PCAP, JSE, CPE credentials.
+* **Target Career Roles:**
+  * Junior Developer
+  * Software Developer
+  * Web Developer
+  * Application Engineer
+
+---
+
+### 4. Linux & IT Support Career Path 🐧
+* **Course Modules & Acquired Knowledge:**
+  * **IT Essentials** – Comprehensive introduction to computer hardware, software, networking, and technical troubleshooting.
+  * **Linux Essentials** – Fundamentals of Linux operating systems, navigation, and command-line operations.
+  * **Linux 1 & Linux 2** – Advanced Linux administration, system scripting, network service management, and security.
+* **Target Certifications:** LPIC-1, CompTIA A+.
+* **Target Career Roles:**
+  * IT Support Specialist
+  * Help Desk Technician
+  * IT Administrator / Systems Analyst
+
+---
+
+## 🛠️ Practical Application Tools
+* **Cisco Packet Tracer:** Network simulation and topology design.
+* **Physical Hardware Labs:** Equipment rack configuration, routing/switching CLI setups, and cable patching.
+* 
