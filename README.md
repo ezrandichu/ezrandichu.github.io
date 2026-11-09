@@ -9,27 +9,66 @@
 ## 🛡️ About Me
 I am a Network and System Administration student specializing in Cybersecurity at Wote Technical Training Institute. Passionate about network security, system administration, threat analysis, and hands-on lab environments.
 
+
+## 🧪 Practical Experience & Lab Work
+
+As a Network and System Administration (Cyber Security) student, I am developing practical skills through coursework, networking exercises, and hands-on learning.
+
+### 1. Network Configuration & Fundamentals
+
+**Areas of Practice:**
+- IPv4 addressing and subnetting.
+- Understanding the TCP/IP model and network communication.
+- Basic router configuration.
+- Basic switch configuration.
+- Network cable termination.
+
+**Learning Outcomes:**
+
+Building a practical understanding of network connectivity, device communication, IP addressing, and basic network infrastructure.
+
+### 2. Cybersecurity Fundamentals
+
+**Areas of Learning:**
+- Introduction to cybersecurity principles.
+- Network security fundamentals.
+- Understanding common cybersecurity threats.
+- Introduction to system security.
+- Linux operating system fundamentals.
+
+**Learning Outcomes:**
+
+Developing a foundation in cybersecurity, understanding basic security concepts, and learning how to approach digital security challenges responsibly.
+
 ---
 
-## 🛠️ Technical Toolkit
-* **Networking & Protocols:** TCP/IP, OSI Model, Subnetting, DNS, DHCP, Wireshark
-* **Security & Reconnaissance:** Nmap, Zenmap, TryHackMe Labs, Linux Terminal
-* **Operating Systems & Virtualization:** Linux (Ubuntu/Debian), Windows, VirtualBox
-* **Content Creation & Tools:** CapCut, DaVinci Resolve, OBS Studio, Git/GitHub
+## 📚 Current Learning Journey
+
+I am continuously developing my knowledge in:
+
+- Computer Networking
+- Network Administration
+- System Administration
+- Cybersecurity Fundamentals
+- Linux Fundamentals
+- Cloud Computing Fundamentals
+- Security Monitoring and Threat Analysis
 
 ---
 
-## 🧪 Practical Labs & Write-ups
+## 🛠️ Tools & Technologies
 
-### 1. Local Network Scanning & Enumeration
-* **Objective:** Scan local network subnets to identify live hosts, exposed ports, and active services.
-* **Tools Used:** Nmap, Zenmap, VirtualBox.
-* **Key Steps:** Executed SYN scans (`-sS`), OS detection (`-O`), and service version audits (`-sV`).
+I am identifying and exploring tools commonly used in networking and cybersecurity as part of my learning journey.
 
-### 2. TryHackMe Cybersecurity Learning Paths
-* Active learning and hands-on lab completion focusing on Network Fundamentals, Linux CLI, and Web Security.
+**Tools to Explore:**
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Linux Command Line
+- VirtualBox
 
----
+*These tools are part of my planned learning journey. I do not currently claim proficiency in them.*
+
 
 ## 📜 Education & Training
 * **Diploma in Network & System Administration (Cyber Security)**  
